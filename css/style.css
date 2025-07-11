@@ -187,6 +187,10 @@ body {
 
 /* RESPONSIVO */
 @media (max-width: 768px) {
+    .logoBloco1 {
+        max-width: 250px;
+    }
+
     .textBloco1 {
         font-size: 1.25rem;
     }
