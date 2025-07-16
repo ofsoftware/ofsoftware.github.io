@@ -188,11 +188,12 @@ body {
 /* RESPONSIVO */
 @media (max-width: 768px) {
     .logoBloco1 {
-        max-width: 250px;
+        max-width: 70%;
     }
 
     .textBloco1 {
         font-size: 1.25rem;
+        margin-top: -3.5rem;
     }
 
     .CaixaConteudo,
